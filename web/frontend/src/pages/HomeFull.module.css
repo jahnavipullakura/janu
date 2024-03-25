@@ -1,0 +1,865 @@
+.nutryfood {
+  position: relative;
+  letter-spacing: 0.3em;
+  font-weight: 600;
+}
+.crownedWithInnovations {
+  position: relative;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: var(--font-lato);
+}
+.nutryfoodParent {
+  position: absolute;
+  top: 40px;
+  left: 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+}
+.home {
+  position: relative;
+  font-weight: 600;
+}
+.homeParent {
+  position: absolute;
+  top: 118px;
+  left: 64px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.component38Icon {
+  width: 48px;
+  position: relative;
+  height: 48px;
+}
+.component38Parent {
+  position: absolute;
+  top: 166px;
+  left: 64px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.nutryfoodAllRights {
+  position: absolute;
+  top: 198px;
+  left: 899px;
+  font-weight: 600;
+}
+.macbookAir5 {
+  position: absolute;
+  bottom: 18px;
+  left: calc(50% - 640px);
+  background-color: var(--color-royalblue-100);
+  width: 1280px;
+  height: 258px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.dbb67e7Fd3848a7Abaf3790588Icon {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 853px);
+  width: 1707px;
+  height: 672px;
+  object-fit: cover;
+}
+.unitingGlobalFlavors {
+  position: absolute;
+  top: calc(50% - 59px);
+  left: calc(50% - 469px);
+  font-weight: 800;
+  display: inline-block;
+  width: 938px;
+}
+.dbb67e7Fd3848a7Abaf3790588Parent {
+  position: absolute;
+  top: 160px;
+  left: calc(50% - 640px);
+  background-color: var(--color-black);
+  width: 1280px;
+  height: 672px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 48px;
+  color: var(--color-white);
+}
+.crownedWithInnovations1 {
+  position: relative;
+  font-weight: 800;
+}
+.elevatingCulinaryExcellence {
+  position: relative;
+  font-size: var(--font-size-xl);
+  color: var(--color-royalblue-100);
+}
+.crownedWithInnovationsParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.atNutryfoodOur {
+  width: 636px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.atNutryfoodOurSuccessReWrapper,
+.frameGroup {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.atNutryfoodOurSuccessReWrapper {
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-lato);
+}
+.frameGroup {
+  width: 1187px;
+  gap: var(--gap-5xl);
+}
+.frameChild {
+  width: 100px;
+  position: relative;
+  height: 100px;
+}
+.groupParent {
+  position: absolute;
+  top: calc(50% - 83.5px);
+  left: calc(50% - 542px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 140px;
+}
+.ancientTimeHonoredMethods,
+.nutritionallySuperiorOption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 188px;
+}
+.ancientTimeHonoredMethods {
+  left: 239px;
+}
+.accessibleWorldwideEverywhe,
+.affordableWithoutSacrificing,
+.noPreservativesPure {
+  position: absolute;
+  top: 0;
+  left: 478px;
+  font-weight: 600;
+  display: inline-block;
+  width: 188px;
+}
+.accessibleWorldwideEverywhe,
+.affordableWithoutSacrificing {
+  left: 696px;
+  width: 234px;
+}
+.affordableWithoutSacrificing {
+  left: 937px;
+}
+.nutritionallySuperiorOptionParent {
+  position: absolute;
+  top: 119px;
+  left: 0;
+  width: 1171px;
+  height: 48px;
+}
+.frameContainer {
+  width: 1171px;
+  position: relative;
+  height: 167px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.frameParent {
+  position: absolute;
+  top: 892px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 61px;
+  text-align: center;
+  font-size: 36px;
+  color: rgba(0, 0, 0, 0.8);
+}
+.whyNutryfoods {
+  position: absolute;
+  top: 1512px;
+  left: 547.5px;
+  font-weight: 600;
+}
+.dayProcessTo {
+  width: 203px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.dayProcessTo1MinProcessWrapper {
+  position: absolute;
+  height: 53.13%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 46.88%;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-lavender);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.pendingIcon1 {
+  position: absolute;
+  height: 31.25%;
+  width: 17.58%;
+  top: 68.75%;
+  right: 43.86%;
+  bottom: 0;
+  left: 38.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component48 {
+  position: absolute;
+  bottom: 486px;
+  left: calc(50% - 102.5px);
+  width: 223px;
+  height: 128px;
+  color: var(--color-gray-100);
+}
+.effortlessCookingStarts {
+  width: 250px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.effortlessCookingStartsWithWrapper {
+  position: absolute;
+  height: 100%;
+  width: 84.38%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 15.63%;
+  border-radius: var(--br-mini) var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-lavender);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.easyToUseIcon1 {
+  position: absolute;
+  height: 58.82%;
+  width: 10.63%;
+  top: 41.18%;
+  right: 89.38%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component47 {
+  position: absolute;
+  top: 146px;
+  left: 685px;
+  width: 320px;
+  height: 68px;
+}
+.redefiningTasteThrough {
+  width: 279px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.redefiningTasteThroughReseaWrapper {
+  position: absolute;
+  height: 100%;
+  width: 79.95%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 20.05%;
+  border-radius: 0 var(--br-mini) var(--br-mini) var(--br-mini);
+  background-color: var(--color-lavender);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.marketResearchIcon1 {
+  position: absolute;
+  height: 58.82%;
+  width: 15.67%;
+  top: 0;
+  right: 84.33%;
+  bottom: 41.18%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component49 {
+  position: absolute;
+  top: 367px;
+  left: 685px;
+  width: 374px;
+  height: 68px;
+}
+.whereResearchMeets {
+  width: 219px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.whereResearchMeetsNourishmeWrapper {
+  position: absolute;
+  height: 53.13%;
+  width: 100%;
+  top: 46.88%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-lavender);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.healthyDietIcon1 {
+  position: absolute;
+  height: 31.25%;
+  width: 15.9%;
+  top: 0;
+  right: 42.26%;
+  bottom: 68.75%;
+  left: 41.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component50 {
+  position: absolute;
+  top: 486px;
+  left: calc(50% - 110.5px);
+  width: 239px;
+  height: 128px;
+}
+.theUltimateCookingShortcutWrapper {
+  position: absolute;
+  height: 100%;
+  width: 83.52%;
+  top: 0;
+  right: 16.48%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini) 0 var(--br-mini) var(--br-mini);
+  background-color: var(--color-lavender);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.exportShareIcon1 {
+  position: absolute;
+  height: 58.82%;
+  width: 12.01%;
+  top: 0;
+  right: 0;
+  bottom: 41.18%;
+  left: 87.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component51 {
+  position: absolute;
+  top: 368px;
+  right: 669px;
+  width: 358px;
+  height: 68px;
+}
+.dishesSpeakOf {
+  width: 306px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.dishesSpeakOfNutryfoodsRWrapper {
+  position: absolute;
+  height: 100%;
+  width: 83.61%;
+  top: 0;
+  right: 16.39%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini) 0 var(--br-mini) var(--br-mini);
+  background-color: var(--color-lavender);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.soupCupAndSoupIcon1 {
+  position: absolute;
+  height: 58.82%;
+  width: 12.29%;
+  top: 0;
+  right: 0;
+  bottom: 41.18%;
+  left: 87.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component52,
+.groupChild {
+  position: absolute;
+  top: 152px;
+  left: 0;
+  width: 389.9px;
+  height: 68px;
+}
+.groupChild {
+  top: 146px;
+  left: 537px;
+  width: 1px;
+  height: 300px;
+}
+.groupItem {
+  top: 220px;
+  left: 406px;
+  width: 262.1px;
+  height: 147.7px;
+  object-fit: contain;
+}
+.ellipseDiv,
+.groupItem,
+.nf {
+  position: absolute;
+}
+.ellipseDiv {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  box-shadow: -2px 4px 4px rgba(0, 74, 173, 0.4);
+  width: 75px;
+  height: 75px;
+}
+.nf {
+  top: 18px;
+  left: 14px;
+  font-weight: 600;
+}
+.ellipseParent {
+  position: absolute;
+  top: 259px;
+  left: 501px;
+  width: 75px;
+  height: 75px;
+  font-size: 32px;
+  color: var(--color-royalblue-100);
+}
+.component48Parent {
+  position: absolute;
+  bottom: 1640px;
+  left: calc(50% - 530px);
+  width: 1059px;
+  height: 614px;
+  text-align: center;
+}
+.frontViewCoffeeBagMockup1Icon {
+  position: absolute;
+  top: 12px;
+  left: 64px;
+  width: 145.9px;
+  height: 200px;
+  object-fit: cover;
+}
+.readyToMix {
+  position: absolute;
+  top: 212px;
+  left: calc(50% - 114.5px);
+  font-weight: 600;
+  display: inline-block;
+  width: 221px;
+}
+.frontViewCoffeeBagMockup1Parent {
+  width: 273px;
+  position: relative;
+  border-radius: var(--br-mini);
+  background: linear-gradient(180deg, #fff, #e2eeff 78.01%);
+  border: 1px solid var(--color-royalblue-200);
+  box-sizing: border-box;
+  height: 272px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.bestSellersParent,
+.frameDiv {
+  display: flex;
+  justify-content: flex-start;
+}
+.frameDiv {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 20px;
+  text-align: center;
+  color: var(--color-gray-200);
+}
+.bestSellersParent {
+  position: absolute;
+  top: 2799px;
+  left: calc(50% - 576px);
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-5xl);
+}
+.image71Icon {
+  position: absolute;
+  top: 0;
+  left: 1334px;
+  width: 117.3px;
+  height: 80px;
+  object-fit: cover;
+}
+.image71Icon,
+.image72Icon,
+.image80Icon {
+  border-radius: var(--br-mini);
+}
+.image80Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 117.3px;
+  height: 80px;
+  object-fit: cover;
+}
+.image72Icon {
+  left: 1491px;
+  width: 106.6px;
+}
+.image72Icon,
+.image73Icon,
+.image81Icon {
+  position: absolute;
+  top: 0;
+  height: 80px;
+  object-fit: cover;
+}
+.image81Icon {
+  left: 157px;
+  border-radius: var(--br-mini);
+  width: 106.6px;
+}
+.image73Icon {
+  left: 1638px;
+  width: 144px;
+}
+.image73Icon,
+.image74Icon,
+.image82Icon {
+  border-radius: var(--br-mini);
+}
+.image82Icon {
+  position: absolute;
+  top: 0;
+  left: 304px;
+  width: 144px;
+  height: 80px;
+  object-fit: cover;
+}
+.image74Icon {
+  left: 1822px;
+}
+.image74Icon,
+.image75Icon,
+.image83Icon {
+  position: absolute;
+  top: 0;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.image83Icon {
+  left: 488px;
+  border-radius: var(--br-mini);
+}
+.image75Icon {
+  left: 1942px;
+}
+.image75Icon,
+.image76Icon,
+.image84Icon {
+  border-radius: var(--br-mini);
+}
+.image84Icon {
+  position: absolute;
+  top: 0;
+  left: 608px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.image76Icon {
+  left: 2062px;
+  width: 106.7px;
+}
+.image76Icon,
+.image77Icon,
+.image85Icon {
+  position: absolute;
+  top: 0;
+  height: 80px;
+  object-fit: cover;
+}
+.image85Icon {
+  left: 728px;
+  border-radius: var(--br-mini);
+  width: 106.7px;
+}
+.image77Icon {
+  left: 2209px;
+  width: 80px;
+}
+.image77Icon,
+.image78Icon,
+.image86Icon {
+  border-radius: var(--br-mini);
+}
+.image86Icon {
+  position: absolute;
+  top: 0;
+  left: 875px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.image78Icon {
+  left: 2329px;
+  width: 160px;
+}
+.image78Icon,
+.image79Icon,
+.image87Icon,
+.image88Icon {
+  position: absolute;
+  top: 0;
+  height: 80px;
+  object-fit: cover;
+}
+.image87Icon {
+  left: 995px;
+  border-radius: var(--br-mini);
+  width: 160px;
+}
+.image79Icon,
+.image88Icon {
+  left: 2529px;
+  width: 99.4px;
+}
+.image88Icon {
+  left: 1195px;
+}
+.component45 {
+  width: 1294px;
+  position: relative;
+  height: 80px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.certificationsParent {
+  position: absolute;
+  top: 3199px;
+  left: calc(50% - 647px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.frameChild2 {
+  width: 392px;
+  position: relative;
+  background-color: #2a0808;
+  height: 288px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.welcomeToNutryfood {
+  margin: 0;
+}
+.welcomeToNutryfoodContainer {
+  width: 745px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frameParent1,
+.whoWeAreParent {
+  display: flex;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.frameParent1 {
+  flex-direction: row;
+  align-items: flex-start;
+  color: var(--color-gray-300);
+  font-family: var(--font-lato);
+}
+.whoWeAreParent {
+  position: absolute;
+  top: 2383px;
+  left: calc(50% - 580px);
+  flex-direction: column;
+  align-items: center;
+}
+.shoppingCart1Icon,
+.user71 {
+  width: 32px;
+  position: relative;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.user71 {
+  border-radius: 22px;
+}
+.shoppingCart1Parent {
+  position: absolute;
+  bottom: 24px;
+  left: calc(50% + 416px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.macbookAir2Child {
+  position: absolute;
+  bottom: 20px;
+  left: calc(50% - 134px);
+  border-radius: 20px;
+  width: 522px;
+  height: 40px;
+  overflow: hidden;
+}
+.macbookAir2Item {
+  position: absolute;
+  top: 18px;
+  left: 45px;
+  width: 30px;
+  height: 45.1px;
+  object-fit: cover;
+}
+.macbookAir2 {
+  width: 1280px;
+  position: relative;
+  background-color: var(--color-white);
+  height: 124px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.homeGroup {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 219.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.mdiwhatsappIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.phone21Parent {
+  position: absolute;
+  top: calc(50% - 12px);
+  right: 64px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.macbookAir3 {
+  width: 1280px;
+  position: relative;
+  background-color: var(--color-royalblue-100);
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.macbookAir2Parent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 640px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-white);
+}
+.homeFull {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3814px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
